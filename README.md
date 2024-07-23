@@ -24,7 +24,7 @@ b) Data preprocessing
 
 c) Logistic Regression
 
-* standardize all columns with continuous values
+* standardize all columns that had continuous values
 * Target variable = "ITM"
 
 splitting conditions: </br>

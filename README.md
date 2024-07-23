@@ -6,7 +6,7 @@
 
 ## ℹ️ Overview
 
-Banks engage in options trading to mitigate the trisk asociated with their investments and make additional income. </br>
+Banks engage in options trading to both mitigate the risk associated with their investments and make additional income. </br>
 
 Using the dataset with stock trade information, I will attempt to apply machine learning to determine what feature(s) predict whether a contract from a trade was a win or loss. This could potentially allow me to aid financial/stock advisors in determining patterns for maximum monetary gain from options trading.
 
